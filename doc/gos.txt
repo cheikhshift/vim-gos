@@ -14,7 +14,9 @@ CONTENTS                                            *GosContents*
 1. ABOUT                                           	*GosAbout*
 
 This vim plugin contains a set of commands to help you write GXML 
-faster. For more information about GXML visit http://golangserver.com/docs. Please make sure your current working directory is the directory of the project you're working on. 
+faster. For more information about GXML visit http://golangserver.com/docs. 
+Please make sure your current working directory is the directory of the 
+project you're working on. 
 
 
 ====================================================================
@@ -79,10 +81,17 @@ faster. For more information about GXML visit http://golangserver.com/docs. Plea
 
 	Add a new end tag to your GXML file.
 
+===========================================================================
+3. CONTRIBUTING                                       *GosContributing*
+
+Suggestions to improve the quality and experience of this plugin are highly 
+recommended.
+
 ====================================================================
 4. BUGS                                           *GosBugs*
 
-Please report all bugs on github. Here is the link to submit a bug :  https://github.com/cheikhshift/vim-gos/issues
+Please report all bugs on github. Here is the link to submit a bug :
+https://github.com/cheikhshift/vim-gos/issues
 
 ====================================================================
 5. LICENSE                                           *GosLicense*
