@@ -1,0 +1,13 @@
+*gos.txt* http://golangserver.com Autocomplete commands
+
+====================================================================
+CONTENTS                                            *GosContents*
+
+    1. Usage ................ |GosUsage|
+    2. Commands ............. |GosMappings|
+    3. License .............. |GosLicense|
+    4. Bugs ................. |GosBugs|
+    5. Contributing ......... |GosContributing|
+
+
+
