@@ -77,9 +77,9 @@ project you're working on.
 
 
                                                         *:AddService*
-:AddService [name]
+:AddService [path]
 
-	Add a new end tag to your GXML file.
+	Add a new end tag to your GXML file with specified url path.
 
 ===========================================================================
 3. CONTRIBUTING                                       *GosContributing*
